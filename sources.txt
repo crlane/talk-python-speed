@@ -1,0 +1,18 @@
+# Sources
+
+## cpython and python internals
+https://talkpython.fm/episodes/show/22/cpython-internals-and-learning-python-with-pythontutor.com
+
+## profiling
+https://talkpython.fm/episodes/show/66/faster-python-programs-measure-don-t-guess
+https://talkpython.fm/episodes/show/28/making-python-fast-profiling-python-code
+
+## cython
+https://www.podcastinit.com/episode-45-cython-with-craig-citro-and-robert-bradshaw/
+
+## RPython and PyPy
+https://talkpython.fm/episodes/show/21/pypy-the-jit-compiled-python-implementation
+https://www.podcastinit.com/episode-41-rpython-with-maciej-fijalkowski/
+http://pypy.org/features.html
+http://speed.pypy.org/
+https://en.wikipedia.org/wiki/Just-in-time_compilation
